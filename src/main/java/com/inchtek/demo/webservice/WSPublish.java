@@ -12,5 +12,7 @@ public class WSPublish {
 
         System.out.println("End public web service");
 
+        
+
     }
 }
